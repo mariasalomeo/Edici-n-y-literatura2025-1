@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_simplePrint.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title></title>
+            <author>Soledad Acosta de Samper</author>
+            <editor>Maria Salomé Ospina Valencia</editor>
+                    </titleStmt>
+         <publicationStmt>
+            <p></p>
+         </publicationStmt>
+         <sourceDesc>
+         <bibl>
+         <pubPlace>Bogotá</pubPlace>
+         <publisher>Editorial Minerva S.A</publisher>
+         <date></date>
+         </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+        <pb n="90"></pb>
+         <p>-¡Qué carácter tan extraño tiene usted! pero continúe : ¿qué se hizo <name type= "person">Fernando</name>?</p>  
+         <p>-Lo vas a oír. Hace algunos meses el Libertador dio un baile en una quinta en los alrededores de Bogotá. La noche estaba lindísima y la luna iluminaba los jardines. Fatigada del ruido y deseosa de encontrarme sola para leer una carta que se me había entregado misteriosamente, me escapé de la casa sin ser vista, y me dirigí hacia un pabellón situado en el fondo del jardín,en donde sabía que hallaría luz y soledad. Envuelta en un grueso pañolón que me escudaba del frío de la noche, atravesé prestamente el jardín y tomé una senda sombreada por arbustos, y cortada por un arroyo que bajaba resonante del vecino cerro. El contraste del ruido, las luces, la armonía y la agitación de un baile con el tranquilo paisaje que atravesaba, me predispuso a una melancolía vaga muy extraña a mi , carácter. Una lámpara colgada del techo iluminaba el pabellón: al llegar a él me dejé caer sobre un sofá y se me escapó un suspiro. Otro suspiro hizo eco a mi lado, y volviéndome hacia la puerta vi que un caballero estaba ahí en pie. Disgustada del espionaje impertinente iba a reconvenir al que habia interrumpido mi soledad, cuando éste desembozándose descubrió la pálida e interesante fisonomia de <name type= "person">Fernando</name>.</p>
+         <pb n="91"></pb>
+         <p>-¿Fernando, dije, es usted? . </p>
+         <p>-Tiene usted razón de admirarse, Aureliana: no debía hallarme aquí, dijo, y tomándome la mano, que instintivamente le alargaba, Imprimió sus labios en ella.</p>
+         <p>-¿Para qué luchar más? añadió sentándose a mi lado; ¿para qué fingir despego cuando no puedo menos que adorarla? .</p>
+         <p>No sé si el corazon de todas las muJeres es igual al mío; pero en vez de sentirme dichosa con mi antes anhelada conquista, mi corazón permaneció tranquilo e indiferente. La desilusión más profunda se apoderó de mí al 
+         comprender que no era caoaz de amar al único hombre que tanto había admirado; Y en lugar de contestarle como hubiera hecho a otro cualquiera, bajé la cabeza en silencio y con amargura pensaba que todos los hombres son iguales puesto que basta lisonjear su vanidad para verlos rendidos.</p>
+         <pb n="92"></pb>
+         <p><name type= "person">Fernando</name> me refirió entonces la historia de su amor. Me confesó que cuando me había conocido, primero sintió hacia mi cierta repulsión y odio, y miraba con desden a todos los que se me humillaban; pero que el deseo que le manifesté de oír sus consejos y de agradarle, en lugar de resentirme por sus censuras, le había sorprendido y poco a poco su odio fue cambiándose en un afecto verdadero que se convirtió en amor violento. Disgustado y humillado al comprender que no tenía fuerza para defenderse, había luchado largo tiempo por vencer su inclinaci6n, y al fin determinó huir de mí y me había hecho entregar sigilosamente una carta aquella noche. Era una tierna despedida.</p>
+         <p>Logré que <name type= "person">Fernando</name> no partiera. Deseaba despertar en mi corazón aquel interés que había creído sentir por él en un tiempo. ¡Amar debe de ser tan bello! Pronto el mismo <name type= "person">Fernando</name> descubrió que yo misma procuraba engañarme y que nunca podría amarlo. Sentía sin embargo perder un corazón tan noble y quise convencerlo de que lo amaba, pero él no se engañó, y se despidió de mí resignado y triste, bien que sin manifestarse herido en su amor propio. Hace un mes supe que había muerto en Cartagena en un duelo por causa mía, defendiéndome de las calumnias que propagaba contra mí un oficial a quien había desdeñado. Esta muerte me causa a veces remordimientos. ¿Pero qué culpa tengo si no lo podía amar? nunca le dije que no le correspondía ...</p>
+         <p>-En eso estuvo el error. </p>
+         <p>-Tal vez ; pues me decía que mis miradas y mis expresiones de cariño le habían hecho concebir esperanzas, y creía por momentos que no lo miraba con indiferencia. Sin esa idea jamás me hubiera amado.</p>
+         </div>
+      </body>
+  </text>
+</TEI>
